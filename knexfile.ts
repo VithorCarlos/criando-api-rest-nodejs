@@ -1,8 +1,7 @@
-import { Knex } from 'knex'
 import path from 'path'
 import { env } from './src/env'
 
-const config: Knex.Config = {
+const config = {
   client: env.DATABASE_CLIENT,
   connection:
     env.DATABASE_CLIENT === 'sqlite3'
