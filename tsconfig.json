@@ -5,7 +5,7 @@
     "esModuleInterop": true,
     "strict": false,
     "skipLibCheck": true,
-    "allowJs": true
+    "allowJs": true,
   },
   "include": [
     "src/**/*.ts",
