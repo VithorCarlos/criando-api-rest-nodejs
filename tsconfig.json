@@ -8,6 +8,6 @@
     "allowJs": true
   },
   "include": [
-    "src/**/*.ts"
+    "src/**/*.ts",
   ]
 }
